@@ -15,7 +15,9 @@
 
 -If you've coded before thats great, once you get to the hompage, you can read a guid to get started and now you can begin coding.
 
--Now ypu can also create a **branch**,it's extremely easy
+-Now you can also create a **branch**,it's extremely easy you have to go to your drop down menu then type in the name of your new branch, then select create.
+
+-When you are done and want to keep the changes you made you have to **commit** those changes.
 
 **GLOSSARY**
 
