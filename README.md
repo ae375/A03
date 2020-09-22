@@ -9,7 +9,13 @@
 
 -Then what you plan to use GitHub for. When you are done you can complete your setup
 
--The first page showes a few different things a create a new **repository**, or you can create a new organization, and you can start learning.
+-The first page showes a few different things a create a new **repository**, or you can create a new organization, and you can start learning. Right now you would like to create a **repository**, so click on that.
+
+-You can go ahead and add a name to this repository, then press create.
+
+-If you've coded before thats great, once you get to the hompage, you can read a guid to get started and now you can begin coding.
+
+-Now ypu can also create a **branch**,it's extremely easy
 
 **GLOSSARY**
 
