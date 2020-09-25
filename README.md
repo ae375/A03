@@ -19,6 +19,12 @@
 
 -When you are done and want to keep the changes you made you have to **commit** those changes.
 
+-Another thing you can do is **pull** requests, there is tab right next to issues tab. Then you can create a new one and when you are done, you can go and press the create the pull request to save it.
+
+**Webstorm Tutorial**
+
+
+
 **GLOSSARY**
 
 **Branch:** branch in code that allows you to edit without affecting the rest of code
