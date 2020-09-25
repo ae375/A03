@@ -22,7 +22,21 @@
 -Another thing you can do is **pull** requests, there is tab right next to issues tab. Then you can create a new one and when you are done, you can go and press the create the pull request to save it.
 
 **Webstorm Tutorial**
+-After you have downloaded Webstorm from their website. You install and launch the application.
 
+-When it is launched, you recieve a page that shows 3 options, **New Project**, **Open**, **Get from Version Control**. Then one you want to press is New Project.
+
+-This will open and then you get a page that shows what you would like to title your new project and where you want to place your project. Once you figured it out press create.
+
+-This leads you to a blank page, you have to go to file, then new and click which one you want.
+
+-Once you write all your code, you can run it and do other things.
+
+-At the bottom of your page you click terminal, which shows your output depending on the file you select.
+
+- If you have a Github account you can link the account and **push** you file, meaning you send the file that you did in Webstorm and send it into your GitHub account.
+
+-Once you are done remember to **commit** your changes.
 
 
 **GLOSSARY**
