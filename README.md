@@ -6,9 +6,9 @@
 
 -Ahmad Elmzaghi: ae375@njit.edu, https://web.njit.edu/~ae375/ProjectFiles/login.php
 
--Justin Bramwell: eb3@njit.edu, 
+-Justin Bramwell: eb3@njit.edu, https://web.njit.edu/~eb3/ProjectFiles/login.php
 
--Miguel Romero: Mar235@njit.edu,
+-Miguel Romero: mar235@njit.edu, https://web.njit.edu/~mar235/ProjectFiles/login.php
 
 
 **Instructions**
