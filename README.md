@@ -1,9 +1,9 @@
-# A03
+# FinalProject
 
-**GITHUB Tutorial**
--Once you reach the Github website you have one of two choices, either you can sign in if you already have an account or you can sign up.
+**FinalProject Links**
+-Group member:
 
--When you finish creating your account, it greets with a page that asks what kind of work you do and select which best fits you.
+-Ahmad Elmzaghi: ae375@njit.edu, https://web.njit.edu/~ae375/ProjectFiles/login.php
 
 -Also it shows right underneath that, how much programming experience you have.
 
